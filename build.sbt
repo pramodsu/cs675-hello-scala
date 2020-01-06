@@ -1,6 +1,5 @@
-name := "hello-scal"
+name := "hello-scala"
 version := "0.1.0"
-maintainer := "spramod@cse.iitk.ac.in"
 scalaVersion := "2.12.7"
  
 scalacOptions += "-feature"
